@@ -1,10 +1,12 @@
-**#Alena Zharnikova**
-***##Junior Frontend Developer***
+**# Alena Zharnikova**
+***## Junior Frontend Developer***
+
 ====
-**###Contacts**
-+ **####Telegram:** Zharnikova
-+ **####E-mail:** alhonaporto@gmail.com
-+ **####Discord:** alena_07825
+
+**### Contacts**
++ ####**Telegram:** Zharnikova
++ **#### E-mail:** alhonaporto@gmail.com
++ **#### Discord:** alena_07825
 ====
 **###About me**
 I am a Russian speaker, fluent in English and learning the Portuguese and I believe that my language skills and cultural understanding would be a great asset. I am also an excellent communicator, with strong interpersonal skills and the ability to make customers feel valued and important. I am organized, reliable, and detail-oriented, and my previous experience has involved project management, communication, and coordination skills.
