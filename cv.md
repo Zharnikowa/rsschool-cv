@@ -12,7 +12,6 @@ I am a Russian speaker, fluent in English and learning the Portuguese and I beli
 **###Skills**
 + Git, GitHub
 + VS Code
-+ Figma
 + SAP Analysis for Excel
 =====
 **###Code example**
